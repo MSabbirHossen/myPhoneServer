@@ -1,6 +1,6 @@
 [
   {
-    "id": "P001",
+    "id": "1",
     "name": "iPhone 15 Pro",
     "brand": "Apple",
     "price": "999",
@@ -10,7 +10,7 @@
     "color": "Titanium Black"
   },
   {
-    "id": "P002",
+    "id": "2",
     "name": "Samsung Galaxy S24 Ultra",
     "brand": "Samsung",
     "price": "1199",
@@ -20,7 +20,7 @@
     "color": "Phantom Black"
   },
   {
-    "id": "P003",
+    "id": "3",
     "name": "Google Pixel 8 Pro",
     "brand": "Google",
     "price": "899",
@@ -30,7 +30,7 @@
     "color": "Obsidian"
   },
   {
-    "id": "P004",
+    "id": "4",
     "name": "OnePlus 12",
     "brand": "OnePlus",
     "price": "799",
@@ -40,7 +40,7 @@
     "color": "Emerald Green"
   },
   {
-    "id": "P005",
+    "id": "5",
     "name": "Xiaomi 14 Pro",
     "brand": "Xiaomi",
     "price": "749",
@@ -50,7 +50,7 @@
     "color": "White"
   },
   {
-    "id": "P006",
+    "id": "6",
     "name": "Sony Xperia 1 V",
     "brand": "Sony",
     "price": "999",
@@ -60,7 +60,7 @@
     "color": "Black"
   },
   {
-    "id": "P007",
+    "id": "7",
     "name": "Huawei P60 Pro",
     "brand": "Huawei",
     "price": "899",
@@ -70,7 +70,7 @@
     "color": "Rococo Pearl"
   },
   {
-    "id": "P008",
+    "id": "8",
     "name": "Realme GT 5",
     "brand": "Realme",
     "price": "499",
@@ -80,7 +80,7 @@
     "color": "Silver"
   },
   {
-    "id": "P009",
+    "id": "9",
     "name": "Oppo Find X6 Pro",
     "brand": "Oppo",
     "price": "899",
@@ -90,7 +90,7 @@
     "color": "Brown"
   },
   {
-    "id": "P010",
+    "id": "10",
     "name": "Nothing Phone (2)",
     "brand": "Nothing",
     "price": "599",
