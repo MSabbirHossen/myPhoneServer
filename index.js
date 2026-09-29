@@ -13,7 +13,7 @@ app.get("/phones", (req, res) => {
   res.send(phones);
 });
 app.get("/phones/:id", (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
   const phone = phones.find((p) => p.id === id);
   if (phone) {
     res.send(phone);
